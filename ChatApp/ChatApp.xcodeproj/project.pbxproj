@@ -11,7 +11,6 @@
 		4D6CB3961E5F636100A5192C /* MessagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6CB3951E5F636100A5192C /* MessagesViewController.swift */; };
 		4D6CB3981E5F6BBA00A5192C /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6CB3971E5F6BBA00A5192C /* Message.swift */; };
 		4D6CB39A1E5F6C9200A5192C /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6CB3991E5F6C9200A5192C /* SampleData.swift */; };
-		4D6CB39C1E5F6D6100A5192C /* MessagesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6CB39B1E5F6D6100A5192C /* MessagesTableViewController.swift */; };
 		4DFFB2DA1E5B693F009BF759 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DFFB2D91E5B693F009BF759 /* AppDelegate.swift */; };
 		4DFFB2DC1E5B693F009BF759 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DFFB2DB1E5B693F009BF759 /* SignInViewController.swift */; };
 		4DFFB2DF1E5B693F009BF759 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DFFB2DD1E5B693F009BF759 /* Main.storyboard */; };
@@ -25,7 +24,6 @@
 		4D6CB3951E5F636100A5192C /* MessagesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MessagesViewController.swift; sourceTree = "<group>"; };
 		4D6CB3971E5F6BBA00A5192C /* Message.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 		4D6CB3991E5F6C9200A5192C /* SampleData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
-		4D6CB39B1E5F6D6100A5192C /* MessagesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MessagesTableViewController.swift; sourceTree = "<group>"; };
 		4DFFB2D61E5B693F009BF759 /* ChatApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChatApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DFFB2D91E5B693F009BF759 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4DFFB2DB1E5B693F009BF759 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
@@ -74,7 +72,6 @@
 				4DFFB2D91E5B693F009BF759 /* AppDelegate.swift */,
 				4DFFB2DB1E5B693F009BF759 /* SignInViewController.swift */,
 				4DFFB2DD1E5B693F009BF759 /* Main.storyboard */,
-				4D6CB39B1E5F6D6100A5192C /* MessagesTableViewController.swift */,
 				4D6CB3971E5F6BBA00A5192C /* Message.swift */,
 				4D6CB3991E5F6C9200A5192C /* SampleData.swift */,
 				4D6CB3951E5F636100A5192C /* MessagesViewController.swift */,
@@ -228,7 +225,6 @@
 			files = (
 				4DFFB2DC1E5B693F009BF759 /* SignInViewController.swift in Sources */,
 				4D6CB39A1E5F6C9200A5192C /* SampleData.swift in Sources */,
-				4D6CB39C1E5F6D6100A5192C /* MessagesTableViewController.swift in Sources */,
 				4DFFB2DA1E5B693F009BF759 /* AppDelegate.swift in Sources */,
 				4D6CB3981E5F6BBA00A5192C /* Message.swift in Sources */,
 				4D6CB3961E5F636100A5192C /* MessagesViewController.swift in Sources */,

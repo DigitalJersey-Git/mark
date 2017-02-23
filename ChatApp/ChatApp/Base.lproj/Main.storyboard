@@ -151,7 +151,6 @@
                     </view>
                     <tabBarItem key="tabBarItem" title="Item 1" id="6Fp-jm-JGG"/>
                     <connections>
-                        <outlet property="tblMessages" destination="BmR-Ma-Rt9" id="v9a-Wa-ttz"/>
                         <outlet property="tblMessagesTable" destination="BmR-Ma-Rt9" id="qS9-1a-ztP"/>
                         <outlet property="welcomeLabel" destination="sPc-za-8yv" id="7JK-2Q-2ad"/>
                     </connections>
